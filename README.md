@@ -52,3 +52,11 @@
 |String Operation Choice|4-12|[code](https://github.com/bcathings/c/blob/master/lab_cycles/cycle4_12_strchoice.c)|
 |Sort Strings|4-13|[code](https://github.com/bcathings/c/blob/master/lab_cycles/cycle4_13_sortstr.c)|
 |String Count Words,Lines,Chars|4-14|[code](https://github.com/bcathings/c/blob/master/lab_cycles/cycle4_14_countstrwlc.c)|
+|Add numbers using pointer|5-01|[code](https://github.com/bcathings/c/blob/master/lab_cycles/cycle5_01_ptradd.c)|
+|Sum of Array using pointer|5-02|[code](https://github.com/bcathings/c/blob/master/lab_cycles/cycle5_02_ptrelesum.c)|
+|Copy String using pointer|5-03|[code](https://github.com/bcathings/c/blob/master/lab_cycles/cycle5_03_ptrstrcpy.c)|
+|Reverse Array using pointer|5-04|[code](https://github.com/bcathings/c/blob/master/lab_cycles/cycle5_04_ptrrevarr.c)|
+|Sort int Array using pointer|5-05|[code](https://github.com/bcathings/c/blob/master/lab_cycles/cycle5_05_ptrsrtarr.c)|
+|Sort String Array using pointer|5-06|[code](https://github.com/bcathings/c/blob/master/lab_cycles/cycle5_06_ptrsrtstrs.c)|
+|Display 2-D Array using pointer|5-07|[code](https://github.com/bcathings/c/blob/master/lab_cycles/cycle5_07_twodarrptr.c)|
+
