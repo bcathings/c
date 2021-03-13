@@ -3,6 +3,7 @@
 
 void main() {
     int a[10][10],r, c, i, j;
+    clrscr();
     printf("Enter rows and columns: ");
     scanf("%d %d", &r, &c);
     printf("\nEnter matrix elements:\n");

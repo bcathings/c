@@ -4,6 +4,7 @@
 
 void main(){
 	int i, j, count;
+    clrscr();
 	printf("Enter total number of stings : ");
 	scanf("%d", &count);
     getchar();
